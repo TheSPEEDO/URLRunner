@@ -5,6 +5,7 @@ YOURUNNER is a powerful and lightweight batch script designed to:
 - Enhance browser performance by launching Chrome with optimized flags for faster startup and reduced memory usage.
 - Configure Chrome with custom registry settings for improved usability and security.
 - Provide a visually appealing experience with ASCII art and dynamic system updates.
+- Link To Comprasion and Test : https://youtu.be/YztK12lB9uQ
 
 ## Features
 
