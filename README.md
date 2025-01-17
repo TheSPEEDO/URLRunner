@@ -1,7 +1,7 @@
-# YoutubeRunner  
+# RUNNER  
 
 ## Description  
-**YoutubeRunner** is a batch script designed to optimize your browser for speed and lower memory usage. It provides a menu-driven interface for quick access to YouTube, Google, Incognito, and customizable URLs.
+**Runner** is a batch script designed to optimize your browser for speed and lower memory usage. It provides a menu-driven interface for quick access to YouTube, Google, Incognito, and customizable URLs.
 
 ---
 
