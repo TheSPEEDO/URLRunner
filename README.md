@@ -42,7 +42,20 @@ Share as many as you can i need your helps
 ## Notes  
 - **Review Before Running**: Registry tweaks are applied for performance.
 - Custom URLs are stored and updated dynamically.
-
+MD5
+fb669b8e11b838e89470f650ccd9f0f6
+ 
+SHA-1
+83ec1a131af4bde3ad30a633dc69ec602dd3c26b
+ 
+SHA-256
+73f9a0a4e5009f0da26e5676ede581c183da8eb4f65c226b1f5995e08f7ce0a2
+ 
+SSDEEP
+96:YSgtkowEHA5s/b9bAT7IVvIpHI9zN9JOPw5mNn6CS/ED85V7MKKehhKHaRsEp5+z:YBWowEHA5wJMT7bdwOPw56DHeyaX5+z
+ 
+TLSH
+T1A362FE31A0A1037B4595DD25BCB4E847ABB68DC36BF10560F0DE32990FAFF9999B41E0
 ---
 
 ## License  
