@@ -9,7 +9,7 @@
 - **Performance Tweaks**: Applies registry settings for faster and smoother browsing.  
 - **Custom URL Support**: Add up to 5 URLs to the menu.  
 - **User-Friendly Menu**: Easy-to-use interface with clear options.  
-- **System Info Display**: Shows OS and CPU details before launch.
+- **System Info Display**: Shows OS and CPU details before launch. (Further Updates)
 
 ---
 
@@ -36,5 +36,8 @@
 - Custom URLs are stored and updated dynamically.
 
 ---
+
+## License  
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 Enjoy faster, smoother browsing! 🚀
