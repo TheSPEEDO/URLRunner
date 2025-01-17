@@ -1,41 +1,40 @@
-# YOURUNNER
-YOURUNNER is a powerful and lightweight batch script designed to:
+# YoutubeRunner  
 
-- Display detailed system information, including memory, IP address, and hardware details.
-- Enhance browser performance by launching Chrome with optimized flags for faster startup and reduced memory usage.
-- Configure Chrome with custom registry settings for improved usability and security.
-- Provide a visually appealing experience with ASCII art and dynamic system updates.
-- Link To Comprasion and Test : https://youtu.be/YztK12lB9uQ
+## Description  
+**YoutubeRunner** is a batch script designed to optimize your browser for speed and lower memory usage. It provides a menu-driven interface for quick access to YouTube, Google, Incognito, and customizable URLs.
 
-## Features
-
-- **Detailed System Information**: Displays key hardware and system specs.
-- **Optimized Chrome Launch**: Opens Google Chrome with performance-focused flags.
-- **Custom Configuration**: Automatically applies recommended Chrome policies.
-- **Engaging Interface**: Features unique ASCII art and a responsive design.
-
-## Requirements
-
-- Windows operating system.
-- Google Chrome installed in either of the default directories:
-  - `C:\Program Files\Google\Chrome\Application\chrome.exe`
-  - `C:\Program Files (x86)\Google\Chrome\Application\chrome.exe`
-
-## How to Use
-
-1. Download the `YOURUNNER.bat` file.
-2. Double-click the file to run it.
-3. Follow the on-screen instructions as the script gathers system details and launches Chrome.
-
-## Notes
-
-- Ensure you run the script with sufficient permissions if required.
-- The script automatically checks for Chrome installation and displays an error message if not found.
-- Press Enter key if you want skip the information
-- You can change timeouts in cmd
 ---
 
-## License
+## Features  
+- **Performance Tweaks**: Applies registry settings for faster and smoother browsing.  
+- **Custom URL Support**: Add up to 5 URLs to the menu.  
+- **User-Friendly Menu**: Easy-to-use interface with clear options.  
+- **System Info Display**: Shows OS and CPU details before launch.
 
-This project is licensed under the MIT License. See the `MIT LICENSE` file for details.
+---
 
+## Usage  
+1. **Download** the script.  
+2. **Run as Administrator** for registry optimizations.  
+3. Follow the menu:  
+   - **1**: Open optimized Google.  
+   - **2**: Open Google (Incognito).  
+   - **3**: Open optimized YouTube.  
+   - **4+**: Add custom URLs.  
+
+---
+
+## Requirements  
+- **OS**: Windows 10/11  
+- **Admin Access**: To apply tweaks.  
+- **Browser**: Chrome or Edge (Chromium-based) (Other Browsers will be added in next updates)
+
+---
+
+## Notes  
+- **Review Before Running**: Registry tweaks are applied for performance.
+- Custom URLs are stored and updated dynamically.
+
+---
+
+Enjoy faster, smoother browsing! 🚀
